@@ -1,0 +1,458 @@
+
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2022 The New York Times Company. All Rights Reserved.",
+    "section": "home",
+    "last_updated": "2022-08-14T01:44:46-04:00",
+    "num_results": 40,
+    "results": [
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "Trump Lawyer Told Justice Dept. That Classified Material Had Been Returned",
+            "abstract": "The lawyer signed a statement in June that all documents marked as classified and held in boxes in storage at Mar-a-Lago had been given back. The search at the former president’s home on Monday turned up more.",
+            "url": "https://www.nytimes.com/2022/08/13/us/politics/trump-classified-material-fbi.html",
+            "uri": "nyt://article/3f3def38-2a79-5904-9f09-faf393b6fa41",
+            "byline": "By Maggie Haberman and Glenn Thrush",
+            "item_type": "Article",
+            "updated_date": "2022-08-13T23:53:45-04:00",
+            "created_date":Utility "2022-08-13T11:58:15-04:00",
+            "published_date": "2022-08-13T11:58:15-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "United States Politics and Government",
+                "Classified Information and State Secrets"
+            ],
+            "org_facet": [
+                "Federal Bureau of Investigation",
+                "Justice Department",
+                "Mar-a-Lago (Palm Beach, Fla)",
+                "National Archives and Records Administration"
+            ],
+            "per_facet": [
+                "Trump, Donald J"
+            ],
+            "geo_facet": [
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/13/multimedia/13dc-investigate-02/13dc-investigate-02-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An inventory of the material taken from Mar-a-Lago on Monday showed that F.B.I. agents seized 11 sets of documents with some type of confidential or secret marking on them.",
+                    "copyright": "Marco Bello/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/13/multimedia/13dc-investigate-02/13dc-investigate-02-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An inventory of the material taken from Mar-a-Lago on Monday showed that F.B.I. agents seized 11 sets of documents with some type of confidential or secret marking on them.",
+                    "copyright": "Marco Bello/Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/13/multimedia/13dc-investigate-02/13dc-investigate-02-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "An inventory of the material taken from Mar-a-Lago on Monday showed that F.B.I. agents seized 11 sets of documents with some type of confidential or secret marking on them.",
+                    "copyright": "Marco Bello/Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3w1NTZk"
+        },
+        {
+            "section": "upshot",
+            "subsection": "",
+            "title": "A Detailed Picture of What’s in the Democrats’ Climate and Health Bill",
+            "abstract": "The climate policies are the most ambitious passed by any Congress, but an entire set of family policies was left out.",
+            "url": "https://www.nytimes.com/interactive/2022/08/13/upshot/whats-in-the-democrats-climate-health-bill.html",
+            "uri": "nyt://interactive/42d90b21-6eb3-5eae-b815-e56327ecd22a",
+            "byline": "By Francesca Paris, Alicia Parlapiano, Margot Sanger-Katz and Eve Washington",
+            "item_type": "Interactive",
+            "updated_date": "2022-08-13T13:10:41-04:00",
+            "created_date": "2022-08-13T05:00:03-04:00",
+            "published_date": "2022-08-13T05:00:03-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Inflation Reduction Act of 2022",
+                "Federal Budget (US)",
+                "Global Warming",
+                "Inflation (Economics)",
+                "United States Economy",
+                "Health Insurance and Managed Care"
+            ],
+            "org_facet": [
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr"
+            ],
+            "geo_facet": [
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/12/upshot/whats-in-the-democrats-climate-health-bill-promo/whats-in-the-democrats-climate-health-bill-promo-superJumbo.png",
+                    "format": "Super Jumbo",
+                    "height": 1333,
+                    "width": 2000,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/12/upshot/whats-in-the-democrats-climate-health-bill-promo/whats-in-the-democrats-climate-health-bill-promo-threeByTwoSmallAt2X.png",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/12/upshot/whats-in-the-democrats-climate-health-bill-promo/whats-in-the-democrats-climate-health-bill-promo-thumbLarge.png",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3peErOf"
+        },
+        {
+            "section": "world",
+            "subsection": "europe",
+            "title": "With New Weaponry, Ukraine Is Subtly Shifting Its War Strategy",
+            "abstract": "Striking deep behind enemy lines, the Ukrainians are depleting Russia’s combat potential, slowing its advance in the east and creating new vulnerabilities in the south.",
+            "url": "https://www.nytimes.com/2022/08/13/world/europe/ukraine-russia-himars-kherson.html",
+            "uri": "nyt://article/1e3f18bf-6a05-595d-9959-9b319e837193",
+            "byline": "By Marc Santora, Michael Schwirtz and Jack Nicas",
+            "item_type": "Article",
+            "updated_date": "2022-08-13T22:50:01-04:00",
+            "created_date": "2022-08-13T12:04:54-04:00",
+            "published_date": "2022-08-13T12:04:54-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Russian Invasion of Ukraine (2022)"
+            ],
+            "org_facet": [
+            ],
+            "per_facet": [
+            ],
+            "geo_facet": [
+                "Crimea (Ukraine)",
+                "Dnipro (Ukraine)",
+                "Kherson (Ukraine)",
+                "Russia",
+                "Ukraine"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/13/world/13UKRAINE-LEDEALL5/13UKRAINE-LEDEALL5-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Smoke rising after a strike on a Russian military base near Novofedorivka, in Crimea, on Tuesday. Ukraine is exploiting its new capacity to strike deep behind enemy lines to deplete Russia’s combat potential.",
+                    "copyright": "Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/13/world/13UKRAINE-LEDEALL5/13UKRAINE-LEDEALL5-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Smoke rising after a strike on a Russian military base near Novofedorivka, in Crimea, on Tuesday. Ukraine is exploiting its new capacity to strike deep behind enemy lines to deplete Russia’s combat potential.",
+                    "copyright": "Reuters"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/13/world/13UKRAINE-LEDEALL5/13UKRAINE-LEDEALL5-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Smoke rising after a strike on a Russian military base near Novofedorivka, in Crimea, on Tuesday. Ukraine is exploiting its new capacity to strike deep behind enemy lines to deplete Russia’s combat potential.",
+                    "copyright": "Reuters"
+                }
+            ],
+            "short_url": "https://nyti.ms/3Qpg8sK"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "U.S. Says Al Qaeda Has Not Regrouped in Afghanistan",
+            "abstract": "A new intelligence assessment of the Al Qaeda threat was prepared after a drone strike killed Ayman al-Zawahri, the group’s leader. But some outside counterterrorism specialists said it was overly optimistic.",
+            "url": "https://www.nytimes.com/2022/08/13/us/politics/al-qaeda-afghanistan.html",
+            "uri": "nyt://article/934e8a32-7cfa-5b39-94d2-bca6d647b602",
+            "byline": "By Eric Schmitt",
+            "item_type": "Article",
+            "updated_date": "2022-08-13T23:10:40-04:00",
+            "created_date": "2022-08-13T19:43:00-04:00",
+            "published_date": "2022-08-13T19:43:00-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Terrorism",
+                "Afghanistan War (2001- )",
+                "United States International Relations",
+                "Espionage and Intelligence Services",
+                "United States Politics and Government"
+            ],
+            "org_facet": [
+                "Al Qaeda",
+                "Taliban"
+            ],
+            "per_facet": [
+                "Biden, Joseph R Jr",
+                "Zawahri, Ayman Al-"
+            ],
+            "geo_facet": [
+                "Afghanistan",
+                "Kabul (Afghanistan)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/13/us/politics/13dc-Qaeda/merlin_211090797_88cfea13-baa4-4039-b628-05122f1a54c4-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Taliban security stood guard this month in Kabul, Afghanistan, during a protest against the U.S. drone strike that killed Ayman al-Zawahri, Al Qaeda’s top leader.",
+                    "copyright": "EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/13/us/politics/13dc-Qaeda/merlin_211090797_88cfea13-baa4-4039-b628-05122f1a54c4-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Taliban security stood guard this month in Kabul, Afghanistan, during a protest against the U.S. drone strike that killed Ayman al-Zawahri, Al Qaeda’s top leader.",
+                    "copyright": "EPA, via Shutterstock"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/13/us/politics/13dc-Qaeda/13dc-Qaeda-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Taliban security stood guard this month in Kabul, Afghanistan, during a protest against the U.S. drone strike that killed Ayman al-Zawahri, Al Qaeda’s top leader.",
+                    "copyright": "EPA, via Shutterstock"
+                }
+            ],
+            "short_url": "https://nyti.ms/3dtBeIa"
+        },
+        {
+            "section": "world",
+            "subsection": "asia",
+            "title": "Taliban Rewind the Clock: ‘A Woman Is a Helpless and Powerless Creature’",
+            "abstract": "Nearly a year since the Taliban seized power, new restrictions have reshaped the social fabric. Schools and jobs are again off-limits for women, music has been banned, and beards are mandatory for men — just like in the 1990s.",
+            "url": "https://www.nytimes.com/2022/08/12/world/asia/afghanistan-taliban.html",
+            "uri": "nyt://article/40ad5ab7-3d32-58c3-a235-9342caba995b",
+            "byline": "By Christina Goldbaum, David Zucchino and The New York Times",
+            "item_type": "Article",
+            "updated_date": "2022-08-14T00:49:50-04:00",
+            "created_date": "2022-08-12T14:00:31-04:00",
+            "published_date": "2022-08-12T14:00:31-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Afghanistan War (2001- )"
+            ],
+            "org_facet": [
+                "Taliban"
+            ],
+            "per_facet": [
+            ],
+            "geo_facet": [
+                "Afghanistan",
+                "Kabul (Afghanistan)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/14/world/14afghan-taliban-1/14afghan-taliban-1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1044,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A year since the Taliban seized power, two decades of U.S.-financed reforms have been reversed by mounting restrictions on daily life.",
+                    "copyright": " Kiana Hayeri for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/14/world/14afghan-taliban-1/14afghan-taliban-1-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A year since the Taliban seized power, two decades of U.S.-financed reforms have been reversed by mounting restrictions on daily life.",
+                    "copyright": " Kiana Hayeri for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/14/world/14afghan-taliban-1/00afghan-taliban-add2-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A year since the Taliban seized power, two decades of U.S.-financed reforms have been reversed by mounting restrictions on daily life.",
+                    "copyright": " Kiana Hayeri for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3SHAGi1"
+        },
+        {
+            "section": "us",
+            "subsection": "politics",
+            "title": "As U.S. Seeks to Close Guantánamo, Saudi Center Could Be an Option",
+            "abstract": "The Biden administration is looking for places to safely send cleared Guantánamo detainees who cannot go home. Could a program in Saudi Arabia provide a solution?",
+            "url": "https://www.nytimes.com/2022/08/13/us/politics/guantanamo-biden-saudi-arabia.html",
+            "uri": "nyt://article/a1572216-f4cb-5286-b574-619a261dc896",
+            "byline": "By Carol Rosenberg and Gabriella Demczuk",
+            "item_type": "Article",
+            "updated_date": "2022-08-13T22:52:36-04:00",
+            "created_date": "2022-08-13T16:09:56-04:00",
+            "published_date": "2022-08-13T16:09:56-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Detainees",
+                "Prisons and Prisoners",
+                "Terrorism",
+                "United States Politics and Government",
+                "United States Defense and Military Forces",
+                "Shutdowns (Institutional)",
+                "Therapy and Rehabilitation"
+            ],
+            "org_facet": [
+            ],
+            "per_facet": [
+            ],
+            "geo_facet": [
+                "Yemen",
+                "Riyadh (Saudi Arabia)",
+                "Saudi Arabia",
+                "Guantanamo Bay Naval Base (Cuba)"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/04/us/politics/00dc-saudi/00dc-saudi-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1365,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Staff members at the Counseling and Care Center in Riyadh. About 6,000 men have gone through some form of the re-education program for former extremists, including 137 former prisoners of Guantánamo Bay.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/04/us/politics/00dc-saudi/00dc-saudi-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Staff members at the Counseling and Care Center in Riyadh. About 6,000 men have gone through some form of the re-education program for former extremists, including 137 former prisoners of Guantánamo Bay.",
+                    "copyright": ""
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/04/us/politics/00dc-saudi/00dc-saudi-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Staff members at the Counseling and Care Center in Riyadh. About 6,000 men have gone through some form of the re-education program for former extremists, including 137 former prisoners of Guantánamo Bay.",
+                    "copyright": ""
+                }
+            ],
+            "short_url": "https://nyti.ms/3JUKyRb"
+        },
+        {
+            "section": "arts",
+            "subsection": "television",
+            "title": "Dolly Alderton Gives Female Friendship the Rom-Com Treatment",
+            "abstract": "The writer has turned her memoir, “Everything I Know About Love,” into a TV show, which plots its central friendship like a grand love story.",
+            "url": "https://www.nytimes.com/2022/08/12/arts/television/dolly-alderton-everything-i-know-about-love.html",
+            "uri": "nyt://article/cd021c7f-768f-5d55-a796-11cec84a4d48",
+            "byline": "By Simran Hans",
+            "item_type": "Article",
+            "updated_date": "2022-08-12T12:03:24-04:00",
+            "created_date": "2022-08-12T05:31:29-04:00",
+            "published_date": "2022-08-12T05:31:29-04:00",
+            "material_type_facet": "",
+            "kicker": "",
+            "des_facet": [
+                "Television",
+                "Content Type: Personal Profile",
+                "Writing and Writers",
+                "Books and Literature",
+                "Millennial Generation",
+                "Everything I Know About Love (TV Program)",
+                "Everything I Know About Love: A Memoir (Book)"
+            ],
+            "org_facet": [
+            ],
+            "per_facet": [
+                "Alderton, Dolly"
+            ],
+            "geo_facet": [
+                "London (England)",
+                "Great Britain"
+            ],
+            "multimedia": [
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/12/arts/12love01/merlin_211079673_e8ebfb47-f59b-4a50-a6a9-d47e4806a6d1-superJumbo.jpg",
+                    "format": "Super Jumbo",
+                    "height": 1536,
+                    "width": 2048,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ellie Smith for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/12/arts/12love01/12love01-threeByTwoSmallAt2X.jpg",
+                    "format": "threeByTwoSmallAt2X",
+                    "height": 400,
+                    "width": 600,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ellie Smith for The New York Times"
+                },
+                {
+                    "url": "https://static01.nyt.com/images/2022/08/12/arts/12love01/12love01-thumbLarge.jpg",
+                    "format": "Large Thumbnail",
+                    "height": 150,
+                    "width": 150,
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Ellie Smith for The New York Times"
+                }
+            ],
+            "short_url": "https://nyti.ms/3drtgPu"
+        }
+    ]
+}
