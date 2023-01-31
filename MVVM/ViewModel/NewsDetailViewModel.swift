@@ -9,7 +9,7 @@ import Foundation
 
 class NewsDetailsViewModel {
     
-    var downloadCompletionDelegate: ImageDownloadCompletionDelegate
+    weak var downloadCompletionDelegate: ImageDownloadCompletionDelegate?
     private let imageDownloderService: ImageDownloaderServiceProtocol
 
     init(imageDownloder: ImageDownloaderServiceProtocol = ImageDownloaderHelper(), downloadCompletionDelegate: ImageDownloadCompletionDelegate) {
@@ -24,9 +24,9 @@ class NewsDetailsViewModel {
             [weak self] (result: Result<Data, NetworkError>) in
             switch result {
             case .success(let imageData):
-                self?.downloadCompletionDelegate.completedImageDownload(newsImage: imageData)
+                self?.downloadCompletionDelegate?.completedImageDownload(newsImage: imageData)
             case .failure :
-                self?.downloadCompletionDelegate.completedImageDownload(newsImage: nil)
+                self?.downloadCompletionDelegate?.completedImageDownload(newsImage: nil)
             }
         }
     }

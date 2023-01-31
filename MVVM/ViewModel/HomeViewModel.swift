@@ -7,7 +7,7 @@
 
 import Foundation
 
-protocol CompletionHandlerDelegate {
+protocol CompletionHandlerDelegate : AnyObject{
     
     func completionHandler()
     func showErrorInformation()
@@ -22,7 +22,7 @@ extension CompletionHandlerDelegate {
 class HomeViewModel {
     
     //MARK: - Variables
-    var delegate: CompletionHandlerDelegate?
+    weak var delegate: CompletionHandlerDelegate?
     private let apiService: RestServiceProtocol
     private var topStories: [Article]?
     var alertMessage: String?

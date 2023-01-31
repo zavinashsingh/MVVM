@@ -13,6 +13,7 @@ protocol ImageDownloaderServiceProtocol {
     func downloadImage(with imageUrlString: String?, completionHandler: @escaping (Result<Data, NetworkError>) ->Void)
     func cancelDownloadTask()
 }
+
 extension ImageDownloaderServiceProtocol {
     func cancelDownloadTask() {
         print("cancel")

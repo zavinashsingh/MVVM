@@ -70,7 +70,7 @@ class NewsDetailsViewController: UIViewController, ImageDownloadCompletionDelega
         present(safariViewController, animated: true)
     }
     deinit {
-        print("ddd")
+        print("deint called")
     }
 }
 
